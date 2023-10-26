@@ -1,0 +1,6 @@
+
+.env
+/venv
+.requirement.txt
+/config
+/__pycache__
